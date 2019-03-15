@@ -1,20 +1,13 @@
 {
-  "name": "cliveburr.github.io",
+  "name": "cliveburrgithubio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Cliveburr/cliveburr.github.io.git"
+  "dependencies": {
+
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Cliveburr/cliveburr.github.io/issues"
-  },
-  "homepage": "https://github.com/Cliveburr/cliveburr.github.io#readme"
+  "devDependencies": {
+
+  }
 }
